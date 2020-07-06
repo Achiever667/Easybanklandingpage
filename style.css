@@ -19,7 +19,7 @@ html body{
   text-align: center;
   top: 90px;
   width:500px;
-  height: 200vh;
+  height: 200vh auto;
   background-color:white;
   color: black;
   font-size: 25px;
@@ -116,7 +116,7 @@ nav .btn{
         display: block;
         text-align: center;
         width: 100%;
-        height: 200vh ;
+        height: 200vh auto ;
         background: rgb(253, 253, 253);
         width: 1200px;
 
